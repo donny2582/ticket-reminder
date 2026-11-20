@@ -1,0 +1,9 @@
+# 個人場次設定（含購票網址），不上傳
+reminder_config.json
+
+# Python / PyInstaller 產物
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
